@@ -7,7 +7,7 @@ nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
 nnoremap <C-f> :NERDTreeFind<CR>
 nnoremap <CR> :noh<CR><CR>
-nnoremap xx :w<CR>
+nnoremap zz :w<CR>
 nnoremap J 5j
 nnoremap K 5k
 nnoremap H 2h
@@ -47,3 +47,4 @@ syntax on
 "https://github.com/deoplete-plugins/deoplete-jedi
 "https://github.com/Townk/vim-autoclose
 "https://github.com/davidhalter/jedi-vim
+"https://github.com/NLKNguyen/papercolor-theme
