@@ -17,7 +17,7 @@ inoremap <S-Tab> <C-d>
 map <C-j> <C-W>j
 map <C-k> <C-W>k
 map <C-h> <C-W>h
-map <C-l> <C-W>
+map <C-l> <C-W>l
 
 set nocompatible
 set backspace=indent,eol,start
